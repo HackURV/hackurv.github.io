@@ -1,0 +1,12 @@
+{
+  "name": "hackurv",
+  "authors": [
+    "Pau Martin <pau.martin.olmos@gmail.com>"
+  ],
+  "description": "hackurv's website",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "hackurv.com",
+  "dependencies": {
+  }
+}
